@@ -1,4 +1,4 @@
-# AWS Billing Alert Terraform Module
+# AWS Billing Alert Terraform Project Steps Carried Out
 
 ![AWS-billing](https://imgur.com/5DqRw6F.png)
 
@@ -120,7 +120,4 @@ Modify the Terraform configuration as needed to fit your requirements. **By defa
 Feedback, bug reports, and pull requests are welcomed. Feel free to raise an issue or submit a pull request.
 
 
-# Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+#### Project Authored by [Joshua Tanimola](https://github.com/Teejoshua)
