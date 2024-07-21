@@ -46,7 +46,7 @@ You can clone this repository to your local machine using the following steps:
 
 
 ```
-git clone https://github.com/NotHarshhaa/aws-billing-alert-terraform.git
+git clone https://github.com/Teejoshua/AWS-Billing-Alert-Provisioned-with-Terraform-Project.git
 ```
 This will create a copy of the repository on your local machine.
 
